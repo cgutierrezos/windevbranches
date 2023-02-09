@@ -22,7 +22,7 @@ project :
     64bits : true
     new_features_help :
      name : ""
-     internal_properties : BgAAAAYAAABtHkYvAArjVfW+4dgmHKxmydPWnDARWsnN8BzOF7DAe1MsjH2fpuhn/Kw+TyJAJ/dF9HwtZnG2
+     internal_properties : BgAAAAYAAACu9laSN+otauA1VZ6TzMNsgE4j5EvAoTL0qvWcUjmYYssGFUX4X209uCgd+gpHXpXWIPKZezQxJ2nD
  elements :
   identifier : 0x43e5656700055800
   elements :
@@ -48,7 +48,7 @@ project :
      internal_properties : BgAAAAYAAACOsKWnR/Nr46smFpE25Rq1R12w/fn4S02B3FFQLUJzr7qxnWG/AhMyjrzj3h3ye7kL59FrpcHUqpeicrj+R+sUU8WXZbTSEQ==
      wdi_physical_name : .\TESTING-SDK.wdi
      wdk_physical_name : .\TESTING-SDK.wdk
-     original_name : ..\TestingComponent\Exe\TESTING-SDK.wdi
+     original_name : .\TESTING-SDK.wdi
   internal_components : []
  data_directory : <ExeDirOrDataDirCommon>
  common_generation_directory : true
