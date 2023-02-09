@@ -38,6 +38,30 @@ project :
      internal_properties : BgAAAAYAAABt6UVZZtNbBNI2jjQy0ikumarkxOakDolyYu5FIPObTeN5U2BippuIf6YQ6KhYIJB4+A==
      physical_name : .\Master.wdw
      type : 2
+   -
+     name : ControlTemplate2
+     identifier : 0x43e579e401146048
+     internal_properties : BgAAAAYAAACIhvCsG0Do8/8TVZAoFrUndBeza1sxF6qOX40sT9TAaISajkLdLIjpnIN9ezu1TUONlQ==
+     physical_name : .\ControlTemplate2.wdt
+     type : 20
+   -
+     name : ControlTemplate1
+     identifier : 0x43e579d101101583
+     internal_properties : BgAAAAYAAAAuNAYaqdZeEdkx/1s+aJp2UtOZgU/9m7hWjUR9+injBQcvtGGiH6KDeqEb5a0j39E7Ow==
+     physical_name : .\ControlTemplate1.wdt
+     type : 20
+   -
+     name : Template1
+     identifier : 0x43e579bd010cca22
+     internal_properties : BgAAAAYAAABFwa3xTmtDXGp+zMDfvZoY66ri+lbUY22i9oP2k2Cqrq62CrBd7PFQN+7o0FCAeGhQ0A==
+     physical_name : .\Template1.wdt
+     type : 18
+   -
+     name : template
+     identifier : 0x43e579b201069d36
+     internal_properties : BgAAAAYAAAA+JBYKuebO4enBD7QODpxnCr/ZaVPxpbt26a7LBA+Fu3GNiQTxEDITynFrVd0T7+ErKw==
+     physical_name : .\template.wdw
+     type : 2
   other_elements : []
   net_assemblies : []
   uwp_api : []
