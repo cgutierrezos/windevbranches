@@ -167,6 +167,9 @@ window :
       	
       	tests.Add(test)
       END
+      
+      
+      ToastDisplay("listo el pollo")
    -
      type : 230
      enabled : false
