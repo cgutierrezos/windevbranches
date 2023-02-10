@@ -10,7 +10,7 @@ info :
 window :
  name : template
  identifier : 0x23e579b201fd9d36
- internal_properties : BgAAAAYAAADmxkrNRjlqbU4tz8OwHcPRoIqOimTI+4v4uLRNIQ2R3oUvXXapTJOFSvYhqg2xNNJyZt7QE0utmRQToa9mj76eVvBCUnIIYrCAtub3hDROOoKxCCC/uVecLVoZgLISwS8RLNAxNghFdbo+l5ZI4mFkD+4v2mQdjZVL9YkGLTPCIfKq7k2yJ/8D50izRsnIxJ/66PSSv1rnA+VgLeyyjZxc3KpsYIthmzLT9ruXap1akwOYfvgmOvoJwrvHduib9PBVtA8h3yAA5Aobw9FAiR7Qs5tKAU46ewjbHGoltZqWKXBzZMdbA+K2IeS5OHVEUBTUj8PE8R5QdDFtXEgZcdAI1DrQ97qkUy3i+EJ56kkrBwB7MDKe3H6XOabIChWTjYGDpaFDEEaFHLLyhTSoMbaYSWNIM067Ie4GFDlS7w4dPDZSy+jBNMeDsMqeM/KQybtLuL5hKCYAHBmcv3/GWlHxa2o7MDKfOdtZ9NCanoqeiUrMcMlWzpadSVRICxa69b2shDoPe7UDeGg00ydGtr/oCqo7d9bTxFkGhO/C5eUKiZx8B44esc8vsbPalCKQf7lREVxtp8Z4DiuGVzTNXZR5TAYl3jOVi+1umualZI69KQ6mUrf2JwHDTduUTRhp9TmuMLMJQUr33TMHU0iCs2K78BYQx142wKRO
+ internal_properties : BgAAAAYAAAAQNYo8O9aXiLA6If8DwIaaR08cgbtZnjPIiAXzaecXecrbdtEM28sYK/DdHY/dZnONZP+mbARSqF31pUUmRyV75pzbQFtHKt76Q/4Xx80ruVrpsWfBFI11JZUJOXFeWlU8RWrAHOJZk5f4Jl4iIsZXiuEiAKQbgWPzQgz3E/6u45qGu5R0r/vnQFiYsu7tMR4l5kMHQl1qs6M3hKMYsXD7vBqFAvqbfiTrsMn4YAH+63xu4Ue5Ddbv6zulanhzq1msI4XlsokSzjpNfsnIkBFyRBssaw4JQRA4f2g9qgtjB4vzhDF/dviOxJj3dF+dYhrildXo1w1ke10/e1zqvG8r1VQLA97XTwaJ7kfNJyD2PtOfA3QIz8RUxKATYHo6ZFLOowRdCtmbC+FIiL4J3C0r2lsfD8JQO0/d6hA0aOk8J0c2sCQVqWEAAdR1l/2J7voG3snb8j+4DdYuIk09h9aqgkrkCBpiP+pYTjv0iWtHXIUWoc0yKyjw7D6zQ+WXlsZxGNE9OagpKctahOGfYQph4cQMQ1rg7hT7RiA8/khZsqHyFqIKjIsAGH8Fwun1sETaMddVvzNMS1riohYANtXcm9z4tnc72abzVzOBwT3Gnj/fNb+2C6Rt5OUPMY67TDUTirgxBVjfYNguCdbohBUa
  controls : []
  menu :
   name : _Menu
@@ -28,6 +28,9 @@ window :
    -
      code : |1+
       PROCEDURE MyWindow()
+      
+      ToastDisplay("listo el pollo")
+      
    -
      type : 230
      enabled : false

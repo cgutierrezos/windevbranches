@@ -81,9 +81,9 @@ window :
            type : 278
            enabled : false
      -
-       name : Column2
+       name : id
        identifier : 0x23e5831402ca42dd
-       internal_properties : BgAAAAYAAAAPAiABTztstHWhSoevP1zKgnoOefaSuuk51vn2EdYRkd8bFkGywBx3Uemjm3wTPm6gq/oJYRpiBAd8r6nO8CHQtVJY5eQAzYuEdt1h9c/Al0Lk6ya1zOyvbrFaUbbRPHbXHK/pVGyCbau+WMJ3i3nEKGYO+jADhPl4yB+0ocRU09Po1ek8KKbl6qAqjgzmgbWbNCUb12kmSeOSXnWT
+       internal_properties : BgAAAAYAAAC/9oe+mL58wAU0pYBARNKhr3wFG5wIf1gsBICZ6tR1b57NlA4+hIOFZJrIennRkuHs3DwkiRyIqhIES9XBgRrLEHySxOWTD0dzuFrqjx10be2ak/ENEhIVEFoe6hhMij1YeEMssKUhQItX05FC+h4c+eMiz3xgl0Sk9kSuJrg4nu24RenMfcoIFUB8ifA5Lp40r1cNYh/yXXc=
        type : 2
        content :
         internal_properties : BgAAAAYAAADQFESfdTmQZKOttK5gOGhp10gaBn55zn8f9PQ+Hgn30c7X5ZUb2a7TL+YEAFuFH3xDr7rDh09YyDm4MdNQVSqmSNB2Fiz4oLGnLBVwOPNq+y0pegkHybtmRbhSp/uKZy/HrEvLt8xtkf5sTpc/fjx2Z4NASD8iFMgZY0wnWjyVmmAqCDXOEqkM27Em7HyS8uniE3HW1rYu05FpQbUgiCTT8csMUbzSncEqv6giS+s3ZLecQ/n0wAz6u0A0c8rtLMyUz4iX202fPklUBZjYfJVTthaCBzOQ682v7sWiosCMDG+hwDHgx1fjDlZuPumJixozWvAWKOW05tOCHLeRZAKWjydiTkCw45DkFUPGcSjyQIAXpkFbNeZXWiOB4vnOV2IFhwTP0VxJgqZB9PBCVeSZB80GO3r7ZXjuq9keJW9fnjQrmfHR869IHOME5yOB5QWW1WNWJ4MHIw5IOJ5vcK2F3QrUERGjTLrJcBx/Vk1r2WtwYsZ1b8kJbeP/Mk20hVOloq8YUSauVbU3p6bsWRI91XPz27AzLCXunjzjGKb2U0WKqyESbrj5ypRRPoNuAIoMFkGE/mRvEnXw8qQwa5vbNgCGYZQhsrxZLDL4YzLkt8w1ZXYLRTedAHxiH4SJZ4HDm7OO3/utAiXRlM1MXD8sTwRVNL36NlANtSq3/xDvlWpc+Jo4eRSCz5pOTC+C7z20W6dQKTtTwfBljApc/AVSGF5uu6ALZNDfLxJuhbEy1UIAr77nP37adgTR7FPdnYnuCTm7U9z+GcErZqEneAhwHziEKkDXgjvl6TeAiYKmmNrj1usjNFgzqaz1f5J7VN5/W5cxnevOXMVOWg1M5F9SVP8z
